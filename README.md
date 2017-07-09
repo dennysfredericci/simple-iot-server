@@ -11,7 +11,7 @@ I wrote an article on Linkedin about this project, but if you have any questions
       - Maven
       - Eclipse
 
-   - Import this Maven project to Eclipse
+   - Import this Maven project to Eclipse.
    - Open and run the main Server class br.com.fredericci.iot.server.ServerApplication
    - Open and run the main Client class br.com.fredericci.iot.client.ClientApplication
    - Check the log console.
