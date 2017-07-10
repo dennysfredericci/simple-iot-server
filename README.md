@@ -1,5 +1,7 @@
 # Simple IoT Server
 
+[![Build Status](https://travis-ci.org/dennysfredericci/simple-iot-server.svg?branch=master)](https://travis-ci.org/dennysfredericci/simple-iot-server)
+
 This project contains a simple socket server implementation with [Netty](http://www.netty.io).
 
 I wrote an article on Linkedin about this project, but if you have any questions please do not hesitate to contact me!
